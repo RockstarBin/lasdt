@@ -7,8 +7,11 @@ This tool is designed to test and evaluate the response speed of large language 
 ---
 
 ## 视频介绍 (Video)
+感谢bilibili UP主 进击的二傻子丫 做的讲解视频，视频地址：
+【全球首发：mini大模型api响应速度检测工具】 https://www.bilibili.com/video/BV1VFNWefEix/?share_source=copy_web&vd_source=213505e6a239a8c94589a076700722c8
 
-<iframe src="//player.bilibili.com/player.html?aid=BV1VFNWefEix" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=113957981392440&bvid=BV1VFNWefEix&cid=28250211779&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+
 ---
 
 ## 特性 (Features)
