@@ -6,6 +6,11 @@ This tool is designed to test and evaluate the response speed of large language 
 
 ---
 
+## 视频介绍 (Video)
+
+<iframe src="//player.bilibili.com/player.html?aid=BV1VFNWefEix" width="640" height="360" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+---
+
 ## 特性 (Features)
 - **实时流数据展示 / Real-Time Streaming:** 程序在接收到数据时立即打印，便于观察响应过程。  
   The tool prints data as it streams in, allowing you to monitor the response in real time.
